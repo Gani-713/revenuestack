@@ -1,0 +1,13 @@
+RevenueStack Media image sources
+All photographic assets referenced in the HTML are sourced from Pexels.
+
+Home hero: https://www.pexels.com/photo/a-group-of-people-discussing-beside-a-desktop-with-graph-on-screen-6476259/
+Services hero: https://www.pexels.com/photo/top-view-of-people-in-a-meeting-7688453/
+Case studies hero: https://www.pexels.com/photo/people-in-the-meeting-looking-at-the-papers-7109288/
+Blog hero: https://www.pexels.com/photo/a-person-holding-a-tablet-with-digital-marketing-pie-chart-on-screen-6476246/
+Contact hero: https://www.pexels.com/photo/business-meeting-in-the-office-4342129/
+Additional case-study and blog imagery uses Pexels photo IDs referenced directly in each HTML file.
+
+Dummy local SVG placeholders added for team and testimonial image layout testing. Replace before launch with approved assets.
+
+Marquee logos supplied by the user and stored locally as assets/img/marquee-logo1.svg through marquee-logo6.svg.
